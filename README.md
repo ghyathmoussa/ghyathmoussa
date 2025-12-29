@@ -1,9 +1,12 @@
 # 💫 About Me:
-- ETL & real-time data pipelines using **Airflow**, **Kafka**, **Cassandra**, and **Docker**
-- ML projects like **text classification using genetic algorithms**
-- AI-powered tools like **RAG-based chatbots**
-- AI Agent Applications
-- Infrastructure automation with **Terraform**, **K8S**
+Dynamic and proficient Mid-Level Data Engineer with expertise in designing, building, and
+maintaining robust data pipelines and infrastructure. Adept at working with a range of data
+sources, databases, and cloud platforms to develop scalable and efficient data solutions. Skilled
+in collaborating with data analysts, data scientists, and other stakeholders to meet
+organizational data needs. Proficient in distributed computing systems and cloud-based
+technologies such as AWS, Azure, and GCP. Experienced in supporting AI and machine
+learning initiatives by preparing, processing, and optimizing large datasets for training and
+inference, and integrating AI-driven solutions into data workflows.
 
 
 ## 🌐 Socials:
