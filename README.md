@@ -1,5 +1,9 @@
 # 💫 About Me:
-- ETL & real-time data pipelines using **Airflow**, **Kafka**, **Cassandra**, and **Docker**<br>- ML projects like **text classification using genetic algorithms**<br>- AI-powered tools like **RAG-based chatbots**<br>- AI Agent Applications<br>- Infrastructure automation with **Terraform**, **K8S**
+- ETL & real-time data pipelines using **Airflow**, **Kafka**, **Cassandra**, and **Docker**
+- ML projects like **text classification using genetic algorithms**
+- AI-powered tools like **RAG-based chatbots**
+- AI Agent Applications
+- Infrastructure automation with **Terraform**, **K8S**
 
 
 ## 🌐 Socials:
